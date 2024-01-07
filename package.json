@@ -1,10 +1,11 @@
 {
   "name": "com.obamalastname.matroska",
   "displayName": "Matroska Utilities",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "unity": "2022.3.16",
   "author": {
-    "url": "https://github.com/obamalastname/"
+    "url": "https://github.com/obamalastname/",
+    "name": "Obamna"
   },
   "license": "MIT",
   "repository": {
