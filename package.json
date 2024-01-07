@@ -1,0 +1,19 @@
+{
+  "name": "com.obamalastname.matroska",
+  "displayName": "Matroska Utilities",
+  "version": "0.0.1",
+  "unity": "2022.3.16",
+  "author": {
+    "url": "https://github.com/obamalastname/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obamalastname/Matroska/tree/main"
+  },
+  "keywords": [
+    "Matroska",
+    "Utilities"
+  ],
+  "description": "My personal tools I made for Unity. It have dependencies, like ECM2 for the player Controller and Odin Inspector and Validator"
+}
